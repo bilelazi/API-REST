@@ -1,0 +1,4 @@
+NB: probleme de CORS ORIGIN 
+FIX: touche windows+R et insere cette ligne pour avoir une navigation sans web security
+
+chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
